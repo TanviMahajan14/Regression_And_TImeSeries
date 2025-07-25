@@ -53,21 +53,12 @@ This project demonstrates a full-cycle data science approach to analyzing and fo
 
 ---
 
-## 💡 Skills Highlighted  
+## 💡 Skills 
 - Data wrangling & EDA  
 - Predictive modeling (Linear Regression)  
 - Time Series Analysis (ARIMA)  
 - Business storytelling through visualizations  
 - Model evaluation and performance tuning
-
----
-
-## 👩‍💼 Ideal For Roles In:
-- Data Analyst / Data Scientist  
-- Forecasting & Demand Planning  
-- Business Intelligence  
-- Retail & E-Commerce Analytics  
-- Financial and Operations Analytics  
 
 ---
 
